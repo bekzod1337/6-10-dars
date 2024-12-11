@@ -30,7 +30,7 @@ export default function TodoItem({
           variant="destructive"
           type="button"
         >
-          Delete
+          o'chirish
         </Button>
         <Button onClick={() => editedTodo(id)} variant="outline" type="button">
           Edit
